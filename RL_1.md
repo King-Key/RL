@@ -1,7 +1,3 @@
-```
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-```
-
 ###  1. RL介绍
 
 > 强化学习（Reinforcement Learning，RL)，又称再励学习，评价学习或增强学习，是机器学习的范式和方法论之一，用于描述和解决智能体在于环境的交互过程中通过学习策略以达成回报最大化或实现特性目标的问题。 
